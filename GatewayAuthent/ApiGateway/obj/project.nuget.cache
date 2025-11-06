@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Wwlt+waUjw=",
+  "success": true,
+  "projectFilePath": "/Users/sarusman/Desktop/ING-LSI/TP7/GatewayAuthent/ApiGateway/ApiGateway.csproj",
+  "expectedPackageFiles": [
+    "/Users/sarusman/.nuget/packages/system.io.hashing/8.0.0/system.io.hashing.8.0.0.nupkg.sha512",
+    "/Users/sarusman/.nuget/packages/yarp.reverseproxy/2.3.0/yarp.reverseproxy.2.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

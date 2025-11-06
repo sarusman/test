@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nm144KZS3AE=",
+  "success": true,
+  "projectFilePath": "/Users/sarusman/Desktop/ING-LSI/TP7/GatewayAuthent/WeatherAPI/WeatherAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/sarusman/.nuget/packages/microsoft.aspnetcore.openapi/9.0.9/microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
+    "/Users/sarusman/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
